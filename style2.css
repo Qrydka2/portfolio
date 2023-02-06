@@ -640,6 +640,10 @@ html {
     color: #fff;
     margin-top: -2rem;
 }
+hr{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
 
 .project-desc {
     font-size: 1.5rem;
