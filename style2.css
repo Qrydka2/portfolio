@@ -323,7 +323,7 @@ html {
 }
 
 .dev-work {
-    width: 30rem;
+    width: 25rem;
     height: 9rem;
     background-color: #1d222a;
     font-size: 1.4rem;
@@ -592,7 +592,7 @@ hr{
     }
 
     .dev-projects {
-        bottom: 25rem;
+        bottom: 15rem;
         right: -4rem;
     }
 
